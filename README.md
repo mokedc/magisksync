@@ -1,0 +1,2 @@
+# magisksync
+Magisk-Sync
